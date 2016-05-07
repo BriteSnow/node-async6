@@ -1,28 +1,23 @@
 {
   "name": "async6",
-  "version": "0.1.0",
-  
+  "version": "0.1.1",
   "description": "Minimalistic, zero dependency, async utilities for ES6, ES2015, node v6.",
-
   "main": "index.js",
-
   "repository": {
     "type": "git",
     "url": "git://github.com/BriteSnow/node-async6.git"
   },
-
-  "keyword": ["async", "promisify", "promise", "await"],
-
-
-  "dependencies": {
-  },
-
-  "devDependencies": {
-  },
+  "keyword": [
+    "async",
+    "promisify",
+    "promise",
+    "await"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
   "author": "Jeremy Chone <jeremy.chone@gmail.com>",
-  "license": "MIT",  
-  
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/BriteSnow/node-async6/issues"
-  }  
+  }
 }
