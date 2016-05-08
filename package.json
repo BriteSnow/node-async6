@@ -1,6 +1,6 @@
 {
   "name": "async6",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minimalistic, zero dependency, async utilities for ES6, ES2015, node v6.",
   "main": "index.js",
   "repository": {
