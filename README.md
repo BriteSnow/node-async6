@@ -48,7 +48,7 @@ run(mygen(10)).then(v => console.log(v)); // 40
 ## Combining promise, yield, generator
 
 ```js
-const async6 = require("async6").promisify;
+const async6 = require("async6");
 const promisify = async6.promisify;
 const run = async6.run;
 
