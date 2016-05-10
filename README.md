@@ -52,7 +52,7 @@ const async6 = require("async6");
 const promisify = async6.promisify;
 const run = async6.run;
 
-const glob   = promisify(require('glob'));
+const pglob   = promisify(require('glob'));
 
 // using generators, promise, and async6.run (see below)
 function* listWebFiles(root){
