@@ -1,6 +1,8 @@
 
 Minimalistic, zero dependency, async utilities for ES6, ES2015, node v6. This library assume node v6 or above with ES2015 Promise and generators. It has no dependency. 
 
+DEPRECATED: Use native async/await from Node.js >8.x. This was just a stop gap plugin, but now, no good reason to use it unless you have to ben on node.js 6.x. 
+
 ## Promisify
 
 Promisify a function which follow the standard callback(err, result) pattern. 
