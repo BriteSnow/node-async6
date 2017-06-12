@@ -1,7 +1,7 @@
 {
   "name": "async6",
   "version": "0.1.3",
-  "description": "Minimalistic, zero dependency, async utilities for ES6, ES2015, node v6. (depecated, use node.js native async/await)",
+  "description": "Minimalistic, zero dependency, async utilities for ES6, ES2015, node v6. (deprecated, use node.js native async/await)",
   "main": "index.js",
   "repository": {
     "type": "git",
